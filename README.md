@@ -5,4 +5,4 @@
  [self.imageView addWaterMarkText:@"迪丽热巴" WithTextColor:[UIColor blackColor] WithFont:[UIFont systemFontOfSize:12]];
 
 
-![Image](https://img-blog.csdnimg.cn/20191015164754288.gif)
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)

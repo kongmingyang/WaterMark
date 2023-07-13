@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'KMWaterMark_Example' do
+  pod 'KMWaterMark', :path => '../'
+
+  target 'KMWaterMark_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

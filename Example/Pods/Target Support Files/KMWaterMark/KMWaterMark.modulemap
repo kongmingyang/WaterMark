@@ -1,0 +1,6 @@
+framework module KMWaterMark {
+  umbrella header "KMWaterMark-umbrella.h"
+
+  export *
+  module * { export * }
+}

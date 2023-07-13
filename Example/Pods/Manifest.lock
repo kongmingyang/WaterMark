@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - KMWaterMark (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - KMWaterMark (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  KMWaterMark:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  KMWaterMark: 9de8707bb97d4b780ca098c09dbe6ffbffe11664
+
+PODFILE CHECKSUM: 07ebbea5752b0ca9c20aa7689a946bef4aad8ec1
+
+COCOAPODS: 1.12.1
